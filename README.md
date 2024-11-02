@@ -1,3 +1,6 @@
+#calculator
+#task 1
+
 import java.util.Scanner;
 
 public class SimpleCalculator {
